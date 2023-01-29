@@ -1,0 +1,105 @@
+{
+  "nextUserIDNumber": [
+    {
+      "number": 5,
+      "id": 1
+    }
+  ],
+  "accounts": [
+    {
+      "userID": 4,
+      "accountNumber": 552182777862245,
+      "owner": "Islam Ali",
+      "userName": "IA",
+      "email": "islamali@gmail.com",
+      "pin": "12345",
+      "interestRate": 1.2,
+      "movements": [
+        {
+          "value": 1300,
+          "date": "Wednesday, 08/31/2022, 6:47:07 AM",
+          "type": "deposit"
+        },
+        {
+          "value": 1500,
+          "date": "Tuesday, 08/30/2022, 12:00:00 AM",
+          "type": "deposit"
+        },
+        {
+          "value": -130,
+          "date": "Monday, 08/29/2022, 12:00:00 AM",
+          "type": "withdrawal"
+        },
+        {
+          "value": 1200,
+          "date": "Sunday, 08/28/2022, 10:23:22 AM",
+          "type": "deposit"
+        },
+        {
+          "value": 4000,
+          "date": "Wednesday, 08/31/2022, 07:32:21 AM",
+          "type": "loan"
+        },
+        {
+          "value": 7000,
+          "date": "Friday, 01/27/2023, 07:15:22 PM",
+          "type": "loan"
+        },
+        {
+          "value": 14000,
+          "date": "Friday, 01/27/2023, 07:16:26 PM",
+          "type": "loan"
+        },
+        {
+          "value": 28000,
+          "date": "Friday, 01/27/2023, 07:16:46 PM",
+          "type": "loan"
+        },
+        {
+          "value": -5000,
+          "date": "Friday, 01/27/2023, 07:17:10 PM",
+          "type": "withdrawal"
+        },
+        {
+          "value": 3000,
+          "date": "Friday, 01/27/2023, 07:18:19 PM",
+          "type": "deposit"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userID": 5,
+      "accountNumber": 100013920380329,
+      "owner": "lols lols",
+      "userName": "LL",
+      "email": "lols@gmail.com",
+      "pin": "12345",
+      "interestRate": 1.2,
+      "movements": [
+        {
+          "value": 5000,
+          "date": "Friday, 01/27/2023, 07:17:10 PM",
+          "type": "deposit"
+        },
+        {
+          "value": 5000,
+          "date": "Friday, 01/27/2023, 07:17:35 PM",
+          "type": "loan"
+        },
+        {
+          "value": 100,
+          "date": "Friday, 01/27/2023, 07:17:48 PM",
+          "type": "loan"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "closedAccounts": [],
+  "login": [
+    {
+      "id": 1
+    }
+  ]
+}
